@@ -33,7 +33,9 @@ then
         done
 fi
 
-set -x
+##set -x
+j=2
+k=2
 if [ "${i}" -gt "1" ]
 then
         join -t "|" stat_0 stat_1 -a 1 -a 2 >stat_final_2
