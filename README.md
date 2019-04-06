@@ -9,3 +9,4 @@ tohtml.sh stat_final_final_<?>
 
 Where the ? is a number based on the number of dumps parsed.
  
+Currently working on a faster, less bugy python version.
